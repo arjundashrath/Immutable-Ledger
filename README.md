@@ -1,0 +1,2 @@
+# Immutable-Ledger
+Creating an immutable ledger where data can be stored in a blockchain securely by deploying a blockchain in a web app.  The ledger can have a wide range of applications, some of them are:  · Property record management to ensure secure storage of data that cannot be tampered with  · Covid sensitive data storage securely in hospitals and vaccines  · Storing confidential transactions between nations
